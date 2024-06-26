@@ -1,2 +1,5 @@
 some example test 
 for the cli
+this is another line in a rust test file
+rust 4ever
+Rust 4Ever
