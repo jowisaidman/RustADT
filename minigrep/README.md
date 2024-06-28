@@ -3,7 +3,6 @@
 This is a simple version of the grep command line written in Rust.
 
 ### Usage
-
 To use this simple grep command run:
 
 `cargo run <query> <file_name>`
